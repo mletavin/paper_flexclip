@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<line x1="580.244" y1="941.518" x2="580.244" y2="356.699" stroke-width="1" stroke="rgb(0,0,0)" />
+	<line x1="83.3333" y1="708.982" x2="916.667" y2="708.982" stroke-width="1" stroke="rgb(0,0,0)" />
+	<rect x="83.3333" y="356.699" width="833.333" height="584.819" fill="none" stroke-width="0.5" stroke="rgb(192,192,192)" />
+	<path d="M674.316,626.706  C681.068,640.545 685.082,654.052 686.47,667.163 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M595.357,688.681  C601.446,701.161 605.065,713.341 606.317,725.165 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M664.755,635.035  C671.427,648.71 675.393,662.056 676.764,675.011 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M655.253,642.987  C661.845,656.498 665.764,669.684 667.119,682.484 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M645.869,650.568  C652.383,663.917 656.254,676.946 657.593,689.593 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M636.663,657.785  C643.099,670.976 646.924,683.85 648.248,696.347 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M627.693,664.647  C634.053,677.683 637.834,690.407 639.142,702.757 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M619.018,671.16  C625.306,684.047 629.043,696.625 630.336,708.834 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M610.697,677.332  C616.916,690.076 620.612,702.514 621.89,714.587 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M602.791,683.17  C608.943,695.778 612.599,708.083 613.864,720.027 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M674.316,626.706  C645.603,652.268 616.891,672.63 595.357,688.681 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M686.47,667.163  C657.323,691.28 628.177,710.197 606.317,725.165 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M676.465,631.307  C647.676,656.704 618.887,676.902 597.295,692.83 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M678.413,635.883  C649.554,661.116 620.695,681.15 599.051,696.956 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M680.159,640.432  C651.238,665.503 622.317,685.375 600.626,701.059 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M681.706,644.956  C652.73,669.865 623.753,689.576 602.021,705.138 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M683.053,649.453  C654.029,674.202 625.004,693.751 603.236,709.194 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M684.202,653.923  C655.137,678.512 626.071,697.902 604.272,713.224 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M685.154,658.365  C656.055,682.795 626.955,702.027 605.131,717.23 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<path d="M685.91,662.778  C656.783,687.051 627.657,706.125 605.812,721.21 " fill="none" stroke-width="1" stroke="rgb(0,255,255)" />
+	<circle cx="674.316" cy="626.706" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="681.068" cy="640.545" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="685.082" cy="654.052" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="686.47" cy="667.163" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="645.603" cy="652.268" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="652.115" cy="665.612" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="655.985" cy="678.637" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="657.323" cy="691.28" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="616.891" cy="672.63" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="623.161" cy="685.48" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="626.888" cy="698.022" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="628.177" cy="710.197" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="595.357" cy="688.681" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="601.446" cy="701.161" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="605.065" cy="713.341" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="606.317" cy="725.165" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="674.316,626.706 681.068,640.545 685.082,654.052 686.47,667.163 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="645.603,652.268 652.115,665.612 655.985,678.637 657.323,691.28 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="616.891,672.63 623.161,685.48 626.888,698.022 628.177,710.197 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="595.357,688.681 601.446,701.161 605.065,713.341 606.317,725.165 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="674.316,626.706 645.603,652.268 616.891,672.63 595.357,688.681 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="681.068,640.545 652.115,665.612 623.161,685.48 601.446,701.161 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="685.082,654.052 655.985,678.637 626.888,698.022 605.065,713.341 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="686.47,667.163 657.323,691.28 628.177,710.197 606.317,725.165 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<rect x="595.357" y="626.706" width="91.1131" height="98.4582" fill="none" stroke-width="2" stroke="rgb(255,0,255)" />
+</svg>

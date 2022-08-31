@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<rect x="83.3333" y="83.3334" width="833.333" height="833.333" fill="none" stroke-width="0.5" stroke="rgb(192,192,192)" />
+	<path d="M83.3333,591.187  C361.111,431.298 638.889,246.858 916.667,84.5259 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M83.3333,590.068  C361.111,430.515 638.889,246.359 916.667,84.1292 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M83.3333,588.948  C361.111,429.73 638.889,245.858 916.667,83.7317 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M83.3333,587.828  C361.111,428.945 638.889,245.357 916.667,83.3334 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M83.3333,593.431  Q500,341.934 916.667,86.7708 " fill="none" stroke-width="1" stroke="rgb(0,128,64)" />
+	<path d="M83.3333,585.602  Q500,335.711 916.667,81.1072 " fill="none" stroke-width="1" stroke="rgb(0,128,64)" />
+	<circle cx="83.3333" cy="591.187" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="83.3333" cy="590.068" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="83.3333" cy="588.948" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="83.3333" cy="587.828" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="361.111" cy="431.298" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="361.111" cy="430.515" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="361.111" cy="429.73" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="361.111" cy="428.945" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="638.889" cy="246.858" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="638.889" cy="246.359" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="638.889" cy="245.858" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="638.889" cy="245.357" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="916.667" cy="84.5259" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="916.667" cy="84.1292" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="916.667" cy="83.7317" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="916.667" cy="83.3334" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="83.3333,591.187 83.3333,590.068 83.3333,588.948 83.3333,587.828 83.3333,591.187 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="361.111,431.298 361.111,430.515 361.111,429.73 361.111,428.945 361.111,431.298 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="638.889,246.858 638.889,246.359 638.889,245.858 638.889,245.357 638.889,246.858 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="916.667,84.5259 916.667,84.1292 916.667,83.7317 916.667,83.3334 916.667,84.5259 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="83.3333,591.187 361.111,431.298 638.889,246.858 916.667,84.5259 83.3333,591.187 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="83.3333,590.068 361.111,430.515 638.889,246.359 916.667,84.1292 83.3333,590.068 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="83.3333,588.948 361.111,429.73 638.889,245.858 916.667,83.7317 83.3333,588.948 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="83.3333,587.828 361.111,428.945 638.889,245.357 916.667,83.3334 83.3333,587.828 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<line x1="83.3333" y1="500" x2="916.667" y2="500" stroke-width="4" stroke="rgb(0,0,255)" />
+	<circle cx="225.836" cy="500" r="2.5" fill="none" stroke-width="4" stroke="rgb(255,0,0)" />
+	<circle cx="237.916" cy="500" r="2.5" fill="none" stroke-width="4" stroke="rgb(255,0,0)" />
+	<line x1="225.836" y1="500" x2="237.916" y2="500" stroke-width="4" stroke="rgb(255,0,0)" />
+</svg>

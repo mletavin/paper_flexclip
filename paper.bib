@@ -1,0 +1,155 @@
+@inproceedings{NISHITA90,
+author = {Nishita, Tomoyuki and Sederberg, Thomas W. and Kakimoto, Masanori},
+title = {Ray Tracing Trimmed Rational Surface Patches},
+year = {1990},
+isbn = {0897913442},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://www.researchgate.net/publication/220721658_Ray_Tracing_Trimmed_Rational_Surface_Patches},
+doi = {10.1145/97879.97916},
+abstract = {This paper presents a new algorithm for computing the points at which a ray intersects a rational B\'{e}zier surface patch, and also an algorithm for determining if an intersection point lies within a region trimmed by piecewise B\'{e}zier curves. Both algorithms are based on a recent innovation known as B\'{e}zier clipping, described herein. The intersection algorithm is faster than previous methods for which published performance data allow reliable comparison. It robustly finds all intersections without requiring special preprocessing.},
+booktitle = {Proceedings of the 17th Annual Conference on Computer Graphics and Interactive Techniques},
+pages = {337–345},
+numpages = {9},
+location = {Dallas, TX, USA},
+series = {SIGGRAPH '90}
+}
+
+@article{Sederberg92approximationby,
+    author = {Thomas W. Sederberg and Rida T. Farouki},
+    title = {Approximation by interval bezier curves},
+    journal = {IEEE Computer Graphics and Applications},
+    year = {1992},
+    volume = {12},
+    pages = {87--95},
+	url = {https://ieeexplore.ieee.org/document/156018}
+}
+
+@article{CAMPAGNA97,
+author = {Campagna, Swen and Slusallek, Philipp and Seidel, Hans-Peter},
+year = {1997},
+month = {08},
+pages = {265-282},
+title = {Ray tracing of spline surfaces: Bézier clipping, Chebyshev boxing, and bounding volume hierarchy – a critical comparison with new results},
+volume = {13},
+journal = {The Visual Computer},
+doi = {10.1007/s003710050103},
+url = {https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.30.1588}
+}
+
+@article{EFREMOV05,
+author = {Efremov, Alexander and Havran, Vlastimil and Seidel, Hans-Peter},
+year = {2005},
+month = {04},
+pages = {},
+title = {Robust and Numerically Stable Bezier Clipping Method for Ray Tracing NURBS Surfaces},
+journal = {21st Spring Conference on Computer Graphics (SCCG 2005), Comenius University, 123-131 (2005)},
+doi = {10.1145/1090122.1090144},
+url = {https://www.researchgate.net/publication/47861644_Robust_and_numerically_stable_Bezier_clipping_method_for_ray_tracing_NURBS_surfaces}
+}
+
+@article{Tejima2015subdivision,
+   author  = {Takahito Tejima and Masahiro Fujita and Toru Matsuoka},
+   title   = {Direct Ray Tracing of Full-Featured Subdivision Surfaces with Bezier Clipping},
+   year    = {2015},
+   month   = {March},
+   day     = {31},
+   journal = {Journal of Computer Graphics Techniques (JCGT)},
+   volume  = {4},
+   number  = {1},
+   pages   = {69--83},
+   url     = {http://jcgt.org/published/0004/01/04/},
+   issn    = {2331-7418}
+}
+
+@mastersthesis{NORTH07,
+  author  = "North, Nicholas Stewart",
+  title   = "Intersection Algorithms Based On Geometric Intervals",
+  school  = "Brigham Young University",
+  address = "Provo, Utah",
+  year    = 2007,
+  month   = dec,
+  url = {https://scholarsarchive.byu.edu/etd/1207}
+}
+
+@article{SCHULZ09,
+author = {Schulz, Christian},
+year = {2009},
+month = {01},
+pages = {61-74},
+title = {Bézier clipping is quadratically convergent},
+volume = {26},
+journal = {Computer Aided Geometric Design},
+doi = {10.1016/j.cagd.2007.12.006},
+url = {https://www.researchgate.net/publication/220221722_Bezier_clipping_is_quadratically_convergent}
+}
+
+@article{BARTON2007125,
+title = {Computing roots of polynomials by quadratic clipping},
+journal = {Computer Aided Geometric Design},
+volume = {24},
+number = {3},
+pages = {125-141},
+year = {2007},
+issn = {0167-8396},
+doi = {https://doi.org/10.1016/j.cagd.2007.01.003},
+url = {http://www.ag.jku.at/pubs/2007bj.pdf},
+author = {Michael Bartoň and Bert Jüttler},
+keywords = {Root finding, Polynomial, Bézier clipping},
+abstract = {We present an algorithm which is able to compute all roots of a given univariate polynomial within a given interval. In each step, we use degree reduction to generate a strip bounded by two quadratic polynomials which encloses the graph of the polynomial within the interval of interest. The new interval(s) containing the root(s) is (are) obtained by intersecting this strip with the abscissa axis. In the case of single roots, the sequence of the lengths of the intervals converging towards the root has the convergence rate 3. For double roots, the convergence rate is still superlinear (32). We show that the new technique compares favorably with the classical technique of Bézier clipping.}
+}
+
+@article{LIU2009547,
+title = {Fast approach for computing roots of polynomials using cubic clipping},
+journal = {Computer Aided Geometric Design},
+volume = {26},
+number = {5},
+pages = {547-559},
+year = {2009},
+issn = {0167-8396},
+doi = {https://doi.org/10.1016/j.cagd.2009.02.003},
+url = {https://www.sciencedirect.com/science/article/pii/S0167839609000338},
+author = {Ligang Liu and Lei Zhang and Binbin Lin and Guojin Wang},
+keywords = {Root finding, Polynomial, Quadratic clipping, Cubic clipping},
+abstract = {This paper presents a new approach, called cubic clipping, for computing all the roots of a given polynomial within an interval. In every iterative computation step, two cubic polynomials are generated to enclose the graph of the polynomial within the interval of interest. A sequence of intervals is then obtained by intersecting the sequence of strips with the abscissa axis. The sequence of these intervals converges to the corresponding root with the convergence rate 4 for the single roots, 2 for the double roots and super-linear 43 for the triple roots. Numerical examples show that cubic clipping has many expected advantages over Bézier clipping and quadratic clipping. We also extend our approach by enclosing the graph of the polynomial using two lower degree k<n polynomials by degree reduction. The sequence of intervals converges to the corresponding root of multiplicity s with convergence rate k+1s.}
+}
+
+@article{WuLi22,
+title = {Curve intersection based on cubic hybrid clipping},
+journal = {Visual computing for industry, biomedicine, and art},
+volume = {5},
+number = {1},
+pages = {17},
+year = {2022},
+issn = {2524-4442},
+doi = {https://doi.org/10.1186/s42492-022-00114-3},
+url = {https://vciba.springeropen.com/articles/10.1186/s42492-022-00114-3},
+author = {Wu, Yaqiong and Li, Xin},
+keywords = {Bézier curve, Curve intersection, Hybrid clipping},
+abstract = {This study presents a novel approach to computing all intersections between two Bézier curves using cubic hybrid clipping. Each intersection is represented by two strip intervals that contain an intersection. In each step, one curve is bounded by two fat lines, and the other is bounded by two cubic Bézier curves, clipping away the domain that does not contain the intersections. By selecting the moving control points of the cubic hybrid curves, better cubic polynomial bounds are obtained to make the proposed method more efficient. It was proved that the two strip intervals have second- and fourth-order convergence rates for transversal intersections. Experimental results show that the new algorithm is the most efficient among all existing curve/curve intersection approaches.}
+}
+
+@misc{Yzerman20simplify,
+title        = "Fast approaches to simplify and offset Bézier curves within specified error limits",
+author       = "{Fabian Yzerman}",
+howpublished = "\url{https://blend2d.com/research/simplify_and_offset_bezier_curves.pdf}",
+year         = {2020},
+month        = {01},
+note         = "Based on a master’s thesis - Revision 1.1"
+}
+
+@misc{HornQuadratic,
+title        = "Numerically Stable Method for Solving Quadratic Equations",
+author       = "{Berthold K.P. Horn}",
+howpublished = "\url{https://people.csail.mit.edu/bkph/articles/Quadratics.pdf}",
+year         = {2005},
+month        = {03},
+note         = "Accessed on 2022-07-29"
+}
+
+@misc{OpenSubdiv,
+title        = "OpenSubdiv",
+author       = "{Pixar Animation Studios}",
+howpublished = "\url{https://graphics.pixar.com/opensubdiv}",
+note         = "Accessed on 2022-07-29"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1000px" height="1000px" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<line x1="303.75" y1="916.667" x2="303.75" y2="83.3334" stroke-width="1" stroke="rgb(0,0,0)" />
+	<line x1="78.75" y1="361.111" x2="866.25" y2="361.111" stroke-width="1" stroke="rgb(0,0,0)" />
+	<rect x="78.75" y="83.3334" width="787.5" height="833.333" fill="none" stroke-width="0.5" stroke="rgb(192,192,192)" />
+	<path d="M252.65,221.358  C354.25,368.519 526.25,373.457 666.25,299.383 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M231.85,644.444  C282.25,807.407 326.25,851.852 466.25,777.778 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M219.288,269.565  C320.818,421.43 492.642,438.128 632.642,364.054 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M194.088,317.35  C295.127,472.878 465.722,498.734 605.722,424.66 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M176.88,364.765  C276.583,523.045 443.843,555.784 583.843,481.71 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M167.491,411.862  C264.596,572.116 425.358,609.786 565.358,535.712 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M165.75,458.696  C258.571,620.271 408.623,661.247 548.623,587.173 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M171.487,505.318  C257.917,667.695 391.991,710.677 531.991,636.603 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M184.53,551.781  C262.04,714.571 373.815,758.582 513.815,684.508 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M204.708,598.139  C270.349,761.081 352.45,805.471 492.45,731.397 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M252.65,221.358  C140.15,366.667 140.15,505.556 231.85,644.444 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M666.25,299.383  C553.75,500 553.75,638.889 466.25,777.778 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M288.984,265.231  C176.484,416.598 176.484,555.487 248.553,694.376 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M329.689,299.089  C217.189,457.75 217.189,596.639 265.626,735.528 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M373.924,323.452  C261.424,490.123 261.424,629.012 283.909,767.901 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M420.845,338.841  C308.345,513.717 308.345,652.606 304.247,791.495 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M469.61,345.777  C357.11,528.532 357.11,667.421 327.482,806.31 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M519.376,344.778  C406.876,534.568 406.876,673.457 354.457,812.346 " fill="none" stroke-width="4" stroke="rgb(0,220,220)" />
+	<path d="M569.3,336.366  C456.8,531.824 456.8,670.713 386.015,809.602 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<path d="M618.539,321.061  C506.039,520.302 506.039,659.191 422.998,798.08 " fill="none" stroke-width="2" stroke="rgb(0,255,255)" />
+	<circle cx="252.65" cy="221.358" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="354.25" cy="368.519" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="526.25" cy="373.457" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="666.25" cy="299.383" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="140.15" cy="366.667" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="241.75" cy="529.63" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="413.75" cy="574.074" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="553.75" cy="500" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="140.15" cy="505.556" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="241.75" cy="668.519" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="413.75" cy="712.963" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="553.75" cy="638.889" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="231.85" cy="644.444" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="282.25" cy="807.407" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="326.25" cy="851.852" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<circle cx="466.25" cy="777.778" r="2.5" fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="252.65,221.358 354.25,368.519 526.25,373.457 666.25,299.383 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="140.15,366.667 241.75,529.63 413.75,574.074 553.75,500 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="140.15,505.556 241.75,668.519 413.75,712.963 553.75,638.889 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="231.85,644.444 282.25,807.407 326.25,851.852 466.25,777.778 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="252.65,221.358 140.15,366.667 140.15,505.556 231.85,644.444 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="354.25,368.519 241.75,529.63 241.75,668.519 282.25,807.407 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="526.25,373.457 413.75,574.074 413.75,712.963 326.25,851.852 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<polyline points="666.25,299.383 553.75,500 553.75,638.889 466.25,777.778 " fill="none" stroke-width="1" stroke="rgb(192,192,192)" />
+	<line x1="78.75" y1="287.723" x2="866.25" y2="544.582" stroke-width="2" stroke="rgb(0,0,255)" />
+</svg>
